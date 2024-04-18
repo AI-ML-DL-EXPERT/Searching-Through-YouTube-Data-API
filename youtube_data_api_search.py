@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from pprint import pprint
 import webbrowser
 
-# Loading the.env file where the api file is stored
+# Loading the.env file where the api file is stored ( Use your own API key )
 load_dotenv("YOUTUBE_DATA_API_KEY.env")
 
 # Getting the api key from the environment variable
